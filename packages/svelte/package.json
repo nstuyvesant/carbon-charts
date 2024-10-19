@@ -40,19 +40,19 @@
 		"@ibm/telemetry-js": "^1.6.1"
 	},
 	"devDependencies": {
-		"@playwright/test": "^1.47.1",
-		"@sveltejs/adapter-static": "^3.0.4",
-		"@sveltejs/kit": "^2.5.27",
+		"@playwright/test": "^1.48.1",
+		"@sveltejs/adapter-static": "^3.0.5",
+		"@sveltejs/kit": "^2.7.1",
 		"@sveltejs/package": "^2.3.5",
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
-		"eslint": "^9.10.0",
+		"eslint": "^9.13.0",
 		"prettier": "^3.3.3",
-		"publint": "^0.2.10",
+		"publint": "^0.2.11",
 		"svelte": "^4.2.19",
-		"svelte-check": "^4.0.2",
-		"tslib": "^2.7.0",
-		"typescript": "^5.6.2",
-		"vite": "^5.4.5"
+		"svelte-check": "^4.0.5",
+		"tslib": "^2.8.0",
+		"typescript": "^5.6.3",
+		"vite": "^5.4.9"
 	},
 	"publishConfig": {
 		"access": "public"
